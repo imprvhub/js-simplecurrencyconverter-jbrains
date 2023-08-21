@@ -1,6 +1,6 @@
 // Simple Currency Converter (Javascript)
 // https://github.com/imprvhub/js-simplecurrencyconverter-jbrains
-// Project Completed By Iván Luna, August 21, 2023.
+// Graduate Project Completed By Iván Luna, August 21, 2023.
 // For Hyperskill (Jet Brains Academy). Course: Introduction To Javascript
 
 const input = require("sync-input");
